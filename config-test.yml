@@ -2,7 +2,7 @@ server:
   port: 9527
 spring:
   application:
-    name: gatewaytest
+    name: gateway
   cloud:
     gateway:
       discovery:
