@@ -1,7 +1,7 @@
 server:
   port: 9527
 test:
-  name: dev
+  name: devaaaaaaaaaaaa
 spring:
   application:
     name: gatewaydev
